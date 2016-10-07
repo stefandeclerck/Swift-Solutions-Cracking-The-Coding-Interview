@@ -16,7 +16,7 @@ All the code in this repo is compatible with **Swift 3.0** and **Xcode 8.0**. Th
 
 ### Chapter 3, Stacks and Queues
 
-### Chapter 4, TRess and Graphs
+### Chapter 4, Trees and Graphs
 
 ### Chapter 5, Bit Manipulation
 
